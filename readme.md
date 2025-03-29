@@ -35,7 +35,7 @@ Want to make it your own? Try:
 - Implementing dark mode
 - Adding size options for the QR code
 
-### Quick Setup (2 ways):
+## Quick Setup (2 ways)
 
 1. **One-click Download**  
    - Click "Code" button (green) above → "Download ZIP"
